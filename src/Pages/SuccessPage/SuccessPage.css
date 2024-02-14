@@ -1,0 +1,17 @@
+.gif {
+  height: 400px;
+  width: 300px;
+  margin-top: -200px;
+  margin-left: -54px;
+}
+.text {
+  background: #cf1919;
+  background: linear-gradient(to right, #cf1919 0%, #830e31 53%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+  font-size: 36px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: -50px;
+}
